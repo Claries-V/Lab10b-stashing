@@ -1,7 +1,11 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 first change-hello
+=======
+first change-hello
+>>>>>>> Stashed changes
 =======
 first change-hello
 >>>>>>> Stashed changes
